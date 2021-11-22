@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PFMApi", "PFMApi\PFMApi.csproj", "{2DE81E61-769D-4A98-9E0C-09BF2B6786AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE81E61-769D-4A98-9E0C-09BF2B6786AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE81E61-769D-4A98-9E0C-09BF2B6786AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE81E61-769D-4A98-9E0C-09BF2B6786AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE81E61-769D-4A98-9E0C-09BF2B6786AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE33BE8B-18D0-40B8-A263-02252DE79083}
+	EndGlobalSection
+EndGlobal
